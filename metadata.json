@@ -1,0 +1,6 @@
+{
+  "name": "AgentReady",
+  "description": "AI Buyer Simulation Infrastructure for Merchants — Test and optimize your commerce readiness before autonomous AI buyers arrive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
